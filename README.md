@@ -13,6 +13,7 @@ Following modules, versions and Datasets are necessary in order to succesfully r
 - Python 3.7 or higher
 - Pytorch 1.6 or higher
 - Pandas
+- Numpy
 - Matplotlib
 - Sklearn
 - codecs
