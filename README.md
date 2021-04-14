@@ -56,4 +56,4 @@ The evaluation of all three neural models was conducted via the methods provided
 
 ### Acknowledgements
 
-Special thanks go out to my course instructor Michael Staniek, who not only held a brilliant and informative Neural Networks course but also helped me out whenever I encountered problems.
+Special thanks go out to my course instructor Michael Staniek @MStaniek, who not only held a brilliant and informative Neural Networks course but also helped me out whenever I encountered problems.
